@@ -4,7 +4,7 @@
 
 I turn operational data into decisions. After more than a decade managing budgets, vendors and logistics, I'm now applying Python, SQL, R and machine learning to business and health data.
 
-📍 Houston, TX · 💼 [LinkedIn](https://www.linkedin.com/in/syed-muhammad-imran-7903258b/) · Open to Data Analyst / Data Science internship and entry-level roles
+📍 Houston, TX · 💼 [LinkedIn](https://www.linkedin.com/in/syed-imran-data/) · Open to Data Analyst / Data Science internship and entry-level roles
 
 ## 🧰 Skills
 **Languages:** Python · R · SQL
