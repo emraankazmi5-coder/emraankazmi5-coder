@@ -15,6 +15,7 @@ I turn operational data into decisions. After more than a decade managing budget
 ## 📂 Featured projects
 | Project | Summary | Tools |
 |---|---|---|
+| [DataCo Late-Delivery Prediction](https://github.com/emraankazmi5-coder/dataco-late-delivery-prediction) | M.S. final project on 180K supply chain orders: the honest accuracy ceiling is 72% (the "99%" models online leak the answer); late deliveries come from unrealistic shipping promises | Python, scikit-learn, XGBoost, K-Means |
 | [Emotion VAE (FER-2013)](https://github.com/emraankazmi5-coder/emotion-vae-fer2013) | Variational autoencoder learning a latent space of facial emotions; emotion arithmetic and latent walks | Python, TensorFlow |
 | [Houston Energy & Weather 2024](https://github.com/emraankazmi5-coder/houston-energy-weather-2024) | Temperature explains Houston's energy use: electricity r = +0.88, gas r = −0.91 | R, ggplot2 |
 | [Nike vs Adidas Sneaker Analysis](https://github.com/emraankazmi5-coder/nike-vs-adidas-sneaker-analysis) | Pricing, discount and ratings mining across two brands | Python, pandas |
